@@ -1,0 +1,36 @@
+
+   .B{
+       background-color: black;
+       background-size: auto;
+       height: 100px;
+        color: green;
+        text-align: center;
+        font-size: 70px;    
+    }
+   .A{
+background-color: brown;
+height: 500px;
+background-size: cover;
+   }
+   .I{
+    width:600px;
+    height: 400px;
+   }
+   .START{
+      background-color: brown;
+      color: black;
+      padding: 20px 30px;
+      border-color: black;
+      border-radius: 4px;
+
+   }
+.BUTTON{
+   padding: 20PX 60PX;
+   border-color: blue;
+   background-color:red;
+}
+.BUTTON1{
+   padding: 20PX 40PX;
+   border-color: blue;
+   background-color:red;
+}
